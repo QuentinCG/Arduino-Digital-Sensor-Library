@@ -1,0 +1,3 @@
+DigitalSensor	KEYWORD1
+status	KEYWORD2
+attachStateChangeToFunction	KEYWORD2
