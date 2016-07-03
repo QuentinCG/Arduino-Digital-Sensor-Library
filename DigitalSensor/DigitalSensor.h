@@ -35,7 +35,7 @@ class DigitalSensor
      *
      * \return (bool) Digital sensor pin value
      */
-    bool status();
+    bool status() const;
 
     /*!
      * \brief attachStateChangeToFunction Attach a specific user function to sensor state change

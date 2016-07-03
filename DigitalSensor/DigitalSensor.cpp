@@ -16,7 +16,7 @@ DigitalSensor::DigitalSensor(int pin)
   pinMode(pin, INPUT);
 }
 
-bool DigitalSensor::status()
+bool DigitalSensor::status() const
 {
   return (digitalRead(_pin));
 }
