@@ -35,10 +35,10 @@ Two examples are provided with this library:
 
 ### Show PIR state every second (synchronous)
 
-<a target="_blank" href="https://github.com/QuentinCG/Arduino-Digital-Sensor-Library/blob/master/DigitalSensor/examples/BasicPIR/BasicPIR.ino">Link to source code</a>
+<a target="_blank" href="https://github.com/QuentinCG/Arduino-Digital-Sensor-Library/blob/master/examples/BasicPIR/BasicPIR.ino">Link to source code</a>
 
 ### Show PIR state when it changes (asynchronous with interrupt)
-<a target="_blank" href="https://github.com/QuentinCG/Arduino-Digital-Sensor-Library/blob/master/DigitalSensor/examples/PIRWithInterrupt/PIRWithInterrupt.ino">Link to source code</a>
+<a target="_blank" href="https://github.com/QuentinCG/Arduino-Digital-Sensor-Library/blob/master/examples/PIRWithInterrupt/PIRWithInterrupt.ino">Link to source code</a>
 
 ## License
 
