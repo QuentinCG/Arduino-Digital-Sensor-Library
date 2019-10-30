@@ -1,5 +1,5 @@
 # Digital Sensor Library for Arduino
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4026e165a7834aeaba663ebd9c7e407c)](https://www.codacy.com/manual/QuentinCG/Arduino-Digital-Sensor-Library?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=QuentinCG/Arduino-Digital-Sensor-Library&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/QuentinCG/Arduino-Digital-Sensor-Library/blob/master/LICENSE.md)
+[![Build Status](https://travis-ci.org/QuentinCG/Arduino-Digital-Sensor-Library.svg?branch=master)](https://travis-ci.org/QuentinCG/Arduino-Digital-Sensor-Library) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4026e165a7834aeaba663ebd9c7e407c)](https://www.codacy.com/manual/QuentinCG/Arduino-Digital-Sensor-Library?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=QuentinCG/Arduino-Digital-Sensor-Library&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/QuentinCG/Arduino-Digital-Sensor-Library/blob/master/LICENSE.md)
 
 ## What is it
 
